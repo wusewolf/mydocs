@@ -19,6 +19,26 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/algorithm/", 
+            "text": "", 
+            "title": "binany_search"
+        }, 
+        {
+            "location": "/cc/", 
+            "text": "", 
+            "title": "C/C++"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Who am i?", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#who-am-i", 
+            "text": "", 
+            "title": "Who am i?"
         }
     ]
 }
