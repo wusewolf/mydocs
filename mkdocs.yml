@@ -1,1 +1,7 @@
 site_name: My Docs
+pages:
+    - Home: index.md
+    - Algorithm:
+      - binany_search: algorithm.md
+    - C/C++: cc.md
+    - About: about.md
