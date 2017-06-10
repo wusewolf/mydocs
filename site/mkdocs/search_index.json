@@ -21,14 +21,39 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/algorithm/", 
+            "location": "/algorithm/algorithm/", 
             "text": "", 
             "title": "binany_search"
+        }, 
+        {
+            "location": "/algorithm/order_search/", 
+            "text": "", 
+            "title": "order_search"
+        }, 
+        {
+            "location": "/sort/", 
+            "text": "", 
+            "title": "Sort"
+        }, 
+        {
+            "location": "/tree/", 
+            "text": "", 
+            "title": "Tree"
         }, 
         {
             "location": "/cc/", 
             "text": "", 
             "title": "C/C++"
+        }, 
+        {
+            "location": "/mkdocs/usemkdocs/", 
+            "text": "mkdocs.yml\n\n\n*page config errors:\n\n\nroot@806rth:/opt/mydocs# mkdocs build\nINFO    -  Cleaning site directory \nINFO    -  Building documentation to directory: /opt/mydocs/site \nLine in 'page' config is of type \ntype 'dict'\n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\n\nLine in 'page' config is of type \n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\nlist or string expected,  fields must be valued.", 
+            "title": "tips"
+        }, 
+        {
+            "location": "/mkdocs/usemkdocs/#mkdocsyml", 
+            "text": "*page config errors:  root@806rth:/opt/mydocs# mkdocs build\nINFO    -  Cleaning site directory \nINFO    -  Building documentation to directory: /opt/mydocs/site \nLine in 'page' config is of type  type 'dict' , list or string expected for sub pages. Config: {u'sort': None}   Line in 'page' config is of type  , list or string expected for sub pages. Config: {u'sort': None}   list or string expected,  fields must be valued.", 
+            "title": "mkdocs.yml"
         }, 
         {
             "location": "/about/", 

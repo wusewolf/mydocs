@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <lastmod>2017-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,8 +12,20 @@
     
         
     <url>
-     <loc>/algorithm/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/sort/</loc>
+     <lastmod>2017-06-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/tree/</loc>
+     <lastmod>2017-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -22,15 +34,25 @@
     
     <url>
      <loc>/cc/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <lastmod>2017-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
+    <url>
+     <loc>/mkdocs/usemkdocs/</loc>
+     <lastmod>2017-06-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
     <url>
      <loc>/about/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <lastmod>2017-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
