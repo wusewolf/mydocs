@@ -46,6 +46,16 @@
             "title": "C/C++"
         }, 
         {
+            "location": "/python/", 
+            "text": "", 
+            "title": "Python"
+        }, 
+        {
+            "location": "/books/book/", 
+            "text": "", 
+            "title": "Books"
+        }, 
+        {
             "location": "/mkdocs/usemkdocs/", 
             "text": "mkdocs.yml\n\n\n*page config errors:\n\n\nroot@806rth:/opt/mydocs# mkdocs build\nINFO    -  Cleaning site directory \nINFO    -  Building documentation to directory: /opt/mydocs/site \nLine in 'page' config is of type \ntype 'dict'\n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\n\nLine in 'page' config is of type \n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\nlist or string expected,  fields must be valued.", 
             "title": "tips"
