@@ -2,7 +2,7 @@ language: python
 python: '2.7'
 install: pip install mkdocs
 before_install:
-- openssl aes-256-cbc -K $encrypted_fe283fc00047_key -iv $encrypted_fe283fc00047_iv -in .travis/id_rsa.enc -out ~\/.ssh/id_rsa -d
+- openssl aes-256-cbc -K $encrypted_fe283fc00047_key -iv $encrypted_fe283fc00047_iv -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
 - chmod 600 ~/.ssh/id_rsa
 - eval `ssh-agent -s`
 - ssh-add ~/.ssh/id_rsa
