@@ -11,5 +11,5 @@ script:
 - eval `ssh-agent -s`
 - git config user.name "Automatic Publish"
 - git config user.email "wj_mailbox163@163.com"
-- mkdocs build
-- mkdocs gh-deploy
+- cd wusewolf/mydocs && mkdocs build && git add site && git commit -m "update site"
+- cd wusewolf/mydocs && git checkout gh-pages && git rebase master
