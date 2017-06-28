@@ -5,4 +5,7 @@ python:
 # command to install dependencies
 install: "pip install mkdocs"
 # command to run tests
-script: mkdocs build
+script: 
+- mkdocs build
+- git checkout gh-pages
+- git rebase master
