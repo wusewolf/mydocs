@@ -1,7 +1,8 @@
 language: python
 python:
-	    - "2.7"
-install:
-	    - "pip install mkdocs"
-script:
-	    - "mkdocs build"
+  - "2.7"
+
+# command to install dependencies
+install: "pip install mkdocs"
+# command to run tests
+script: mkdocs build
