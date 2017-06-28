@@ -46,7 +46,7 @@
             "title": "C/C++"
         }, 
         {
-            "location": "/python/", 
+            "location": "/python/python/", 
             "text": "", 
             "title": "Python"
         }, 
@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Who am i?", 
+            "text": "Who am i?\n\n\n\n\nMy github site: https://github.com/wusewolf", 
             "title": "About"
         }, 
         {
             "location": "/about/#who-am-i", 
-            "text": "", 
+            "text": "My github site: https://github.com/wusewolf", 
             "title": "Who am i?"
         }
     ]
