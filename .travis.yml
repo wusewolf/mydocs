@@ -9,7 +9,6 @@ before_install:
 script:
 - chmod 600 deploy-key
 - eval `ssh-agent -s`
-- ssh-add deploy-key
 - git config user.name "Automatic Publish"
 - git config user.email "wj_mailbox163@163.com"
 - mkdocs build
