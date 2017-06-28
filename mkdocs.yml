@@ -8,7 +8,8 @@ pages:
     - Sort: sort.md
     - Tree: tree.md
 - C/C++: cc.md
-- Python: python.md
+- Python:
+    - Python: python/python.md
 - Books: books/book.md
 - Mkdocs:
     - tips: mkdocs/usemkdocs.md
