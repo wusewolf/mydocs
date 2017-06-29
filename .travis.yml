@@ -12,6 +12,7 @@ before_install:
 - git config user.email "wj_mailbox163@163.com"
 script:
 - mkdocs build
+- mkdocs gh-deploy
 branches:
   only:
   - master
