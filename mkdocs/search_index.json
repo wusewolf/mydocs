@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Who am i?\n\n\n\n\nMy github site: https://github.com/wusewolf", 
+            "text": "Who am i?\n\n\n\n\nMy github site:  \nhttps://github.com/wusewolf", 
             "title": "About"
         }, 
         {
             "location": "/about/#who-am-i", 
-            "text": "My github site: https://github.com/wusewolf", 
+            "text": "My github site:   https://github.com/wusewolf", 
             "title": "Who am i?"
         }
     ]
