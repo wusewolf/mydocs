@@ -8,10 +8,10 @@ before_install:
 - eval `ssh-agent -s`
 - ssh-add ~/.ssh/id_rsa
 - cp .travis/ssh_config ~/.ssh/config
-- git config user.name "Automatic Publish"
-- git config user.email "wj_mailbox163@163.com"
 - git clone git@github.com:wusewolf/mydocs.git mydocs
 script:
 - cd "$TRAVIS_BUILD_DIR"/mydocs
+- git config --local user.name "Automatic Publish"
+- git config --local user.email "wj_mailbox163@163.com"
 - mkdocs build --clean
 - mkdocs gh-deploy
