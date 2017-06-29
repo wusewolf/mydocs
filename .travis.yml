@@ -10,8 +10,9 @@ before_install:
 - cp .travis/ssh_config ~/.ssh/config
 - git config user.name "Automatic Publish"
 - git config user.email "wj_mailbox163@163.com"
+- git clone  git@github.com:wusewolf/mkdocs.git
 script:
-- mkdocs build
+- mkdocs build --clean
 - mkdocs gh-deploy
 branches:
   only:
