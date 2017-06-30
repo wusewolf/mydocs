@@ -56,6 +56,16 @@
             "title": "Books"
         }, 
         {
+            "location": "/linux/LD_RUN_PATH/", 
+            "text": "LD_LIBRARY_PATH and LD_RUN_PATH\n\n\n\n\n\n\nLD_LIBRARY_PATH\n Specifies the directories that are to be searched for libraries at run time.\n\n\n\n\n\n\nLD_RUN_PATH \nSpecifies the directories that are to be searched for libraries at both link and run time.", 
+            "title": "LD_RUN_PATH"
+        }, 
+        {
+            "location": "/linux/LD_RUN_PATH/#ld_library_path-and-ld_run_path", 
+            "text": "LD_LIBRARY_PATH  Specifies the directories that are to be searched for libraries at run time.    LD_RUN_PATH  Specifies the directories that are to be searched for libraries at both link and run time.", 
+            "title": "LD_LIBRARY_PATH and LD_RUN_PATH"
+        }, 
+        {
             "location": "/mkdocs/usemkdocs/", 
             "text": "mkdocs.yml\n\n\n*page config errors:\n\n\nroot@806rth:/opt/mydocs# mkdocs build\nINFO    -  Cleaning site directory \nINFO    -  Building documentation to directory: /opt/mydocs/site \nLine in 'page' config is of type \ntype 'dict'\n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\n\nLine in 'page' config is of type \n, list or string expected for sub pages. Config: {u'sort': None}\n\n\n\n\nlist or string expected,  fields must be valued.", 
             "title": "tips"
