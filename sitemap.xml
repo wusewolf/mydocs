@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -19,13 +19,13 @@
         
     <url>
      <loc>/sort/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/tree/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -34,7 +34,7 @@
     
     <url>
      <loc>/cc/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -43,7 +43,7 @@
         
     <url>
      <loc>/python/python/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -52,7 +52,7 @@
     
     <url>
      <loc>/books/book/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -61,7 +61,17 @@
         
     <url>
      <loc>/linux/LD_RUN_PATH/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>/hardware/gpio/</loc>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -71,7 +81,7 @@
         
     <url>
      <loc>/mkdocs/usemkdocs/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -80,7 +90,7 @@
     
     <url>
      <loc>/about/</loc>
-     <lastmod>2017-06-30</lastmod>
+     <lastmod>2017-07-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
