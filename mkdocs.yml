@@ -13,6 +13,8 @@ pages:
 - Books: books/book.md
 - Linux:
     - LD_RUN_PATH: linux/LD_RUN_PATH.md
+- Hardware:
+    - GPIO: hardware/gpio.md
 - Mkdocs:
     - tips: mkdocs/usemkdocs.md
 - About: about.md
